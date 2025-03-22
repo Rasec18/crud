@@ -17,3 +17,4 @@
 
         <label for="ciudad">Ciudad</label>
         <input type="text" name="ciudad" value="{{ $alumno->ciudad }}" required>
+@endsection
